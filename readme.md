@@ -1,8 +1,8 @@
 #じゃんけん課題
 
-## DEMO
+## demo
 
-http://127.0.0.1:5500/janken.html
+https://ryutainoue8415.github.io/jyanken_kadai/
 
 ## 紹介と使い方
 
